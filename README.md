@@ -13,10 +13,10 @@ All pipelines are built with production in mind: performance, reliability, clari
          <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
       <a href="https://github.com/007ekho?tab=followers">
-         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/[your-username]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/007ekho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
       </a>
       <a href="https://github.com/007ekho?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/[your-username]?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+         <img alt="total stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/007ekho?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
    </p>
 
