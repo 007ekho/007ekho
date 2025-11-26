@@ -24,27 +24,26 @@ All pipelines are built with production in mind: performance, reliability, clari
 
 ### 🧰 Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-
-  <!-- Devicon Icons -->
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Databricks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" style="height:40px; margin-right:10px;"/>
-  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height:40px; margin-right:10px;"/>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap:10px;">
 
   <!-- Shields.io badges -->
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" style="height:40px; margin-right:10px;"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="height:40px; margin-right:10px;"/>
-  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" style="height:40px; margin-right:10px;"/>
-  <img alt="SFTP" src="https://img.shields.io/badge/SFTP-1ABC9C?style=for-the-badge&logo=filezilla&logoColor=white" style="height:40px; margin-right:10px;"/>
-
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" style="height:40px;"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="height:40px;"/>
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" style="height:40px;"/>
+  <img alt="SFTP" src="https://img.shields.io/badge/SFTP-1ABC9C?style=for-the-badge&logo=filezilla&logoColor=white" style="height:40px;"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="height:40px;"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height:40px;"/>
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FC6C3F?style=for-the-badge&logo=databricks&logoColor=white" style="height:40px;"/>
+  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" style="height:40px;"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="height:40px;"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="height:40px;"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="height:40px;"/>
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" style="height:40px;"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" style="height:40px;"/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="height:40px;"/>
+  
 </div>
+
 
 
 #
