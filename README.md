@@ -84,14 +84,23 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap:10px;">
 
   <!-- Snowflake Certification -->
-  <a href="https://achieve.snowflake.com/7287ef5a-40c8-43f4-a306-707be9b5054f#acc.nTkivFH7" target="_blank" rel="noopener noreferrer">
-    <img alt="Snowflake Certification" src="assets/badges/snowflake_cert.png" style="height:100px;" />
-  </a>
+   <a href="https://achieve.snowflake.com/7287ef5a-40c8-43f4-a306-707be9b5054f#acc.5cjDK4of" target="_blank" rel="noopener noreferrer">
+       <img alt="Snowpro Certification" src="https://github.com/007ekho/007ekho/raw/main/assets/badges/snowflakepro.png" style="height:150px;" />
+   </a>
 
   <!-- dbt Certification -->
-  <a href="https://credentials.getdbt.com/5d3aba68-1adc-4583-ba3f-7d02366258f8#acc.q4sIjyt0" target="_blank" rel="noopener noreferrer">
-    <img alt="dbt Certification" src="assets/badges/dbt_cert.png" style="height:100px;" />
-  </a>
+   <a href="https://credentials.getdbt.com/5d3aba68-1adc-4583-ba3f-7d02366258f8#acc.q4sIjyt0" target="_blank" rel="noopener noreferrer">
+       <img alt="dbt Certification" src="https://github.com/007ekho/007ekho/raw/main/assets/badges/dbt.png" style="height:150px;" />
+   </a>
+
+   <a href="https://achieve.snowflake.com/ef3ef2d4-9e5e-4995-a5c8-a712ec0b90e4#acc.d2T1nmvB" target="_blank" rel="noopener noreferrer">
+       <img alt="Snowflake data Engineering" src="https://github.com/007ekho/007ekho/raw/main/assets/badges/snow_dataengineering.png" style="height:150px;" />
+   </a>
+
+   <a href="https://achieve.snowflake.com/3b8efa5c-dc77-4c13-a787-725f657c33c1#acc.VEv9qXIB" target="_blank" rel="noopener noreferrer">
+       <img alt="Snowflake datalake" src="https://github.com/007ekho/007ekho/raw/main/assets/badges/snow_datalake.png" style="height:150px;" />
+   </a>
+
 
 </div>
 
