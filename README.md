@@ -70,7 +70,7 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 [![Oracle to Snowflake Migration](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=oracle-to-snowflake&theme=dark&show_owner=true)](https://github.com/[your-username]/oracle-to-snowflake)
 [![Airflow DAGs for ETL](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=airflow-etl-dags&theme=dark&show_owner=true)](https://github.com/[your-username]/airflow-etl-dags)
 [![Databricks Spark Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=databricks-spark-pipelines&theme=dark&show_owner=true)](https://github.com/[your-username]/databricks-spark-pipelines)
-[![SFTP Ingestion Framework](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=sftp-ingestion&theme=dark&show_owner=true)](https://github.com/007ekho/sftp-ingestion)
+[![AeroSync SFTP-to-Snowflake Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=sftp-ingestion&theme=dark&show_owner=true)](https://github.com/007ekho/sftp-ingestion)
 [![Kimball & Data Vault Models](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=data-models&theme=dark&show_owner=true)](https://github.com/[your-username]/data-models)
 <!-- END GITHUB-PROJECT-CARDS -->
 
