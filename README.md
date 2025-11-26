@@ -79,6 +79,23 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 
 ---
 
+## Certifications 🎓
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap:10px;">
+
+  <!-- Snowflake Certification -->
+  <a href="https://achieve.snowflake.com/7287ef5a-40c8-43f4-a306-707be9b5054f#acc.nTkivFH7" target="_blank" rel="noopener noreferrer">
+    <img alt="Snowflake Certification" src="assets/badges/snowflake_cert.png" style="height:100px;" />
+  </a>
+
+  <!-- dbt Certification -->
+  <a href="https://credentials.getdbt.com/5d3aba68-1adc-4583-ba3f-7d02366258f8#acc.q4sIjyt0" target="_blank" rel="noopener noreferrer">
+    <img alt="dbt Certification" src="assets/badges/dbt_cert.png" style="height:100px;" />
+  </a>
+
+</div>
+
+
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=gruvbox)
