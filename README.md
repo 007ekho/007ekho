@@ -1,16 +1,92 @@
-## Hi there 👋
+# ❄️ Success Ekhosuehi
 
-<!--
-**007ekho/007ekho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Engineer (Snowflake | Streaming | Modeling | Orchestration | Migration)`**
 
-Here are some ideas to get you started:
+I'm a data engineer focused on building **scalable, automated, cloud-native data platforms**. My work centers around **Snowflake architecture**, real-time and micro-batch **streaming pipelines**, and **workflow orchestration** using Airflow & OpenFlow. I specialize in transforming complex, high volume data especially from legacy systems like Oracle,Db2,teradata into efficient, analytics-ready cloud ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also design modern **data models** using **Kimball (Dimensional)** and **Data Vault** methodologies to ensure **scalable, auditable, and business-aligned datasets**.
+
+All pipelines are built with production in mind: performance, reliability, clarity, and scale.
+
+   <p align="left">
+      <a href="https://www.linkedin.com/in/suehi/">
+         <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://github.com/[your-username]?tab=followers">
+         <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/[your-username]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+      </a>
+      <a href="https://github.com/[your-username]?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/[your-username]?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+   </p>
+
+---
+
+### 🧰 Tech Stack
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+
+  <!-- Devicon Icons -->
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Databricks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" style="height:40px; margin-right:10px;"/>
+  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="height:40px; margin-right:10px;"/>
+
+  <!-- Shields.io badges -->
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" style="height:40px; margin-right:10px;"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="height:40px; margin-right:10px;"/>
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" style="height:40px; margin-right:10px;"/>
+  <img alt="SFTP" src="https://img.shields.io/badge/SFTP-1ABC9C?style=for-the-badge&logo=filezilla&logoColor=white" style="height:40px; margin-right:10px;"/>
+
+</div>
+
+
+#
+
+### 🚀 My Core Engineering Focus
+
+- ❄️ **Snowflake**: Snowpipe, Streams, Tasks, Time Travel, Performance Optimization  
+- ⚡ **Databricks**: Transformation, Spark pipelines, ML workloads  
+- 🌊 **Streaming & Ingestion**: IoT data, Kafka, CDC, Micro-batching  
+- 🔁 **Migration**: Oracle → Snowflake / Databricks modernization  
+- 📁 **SFTP Pipelines**: File ingestion, automation & monitoring  
+- 🧠 **Orchestration**: Apache Airflow, OpenFlow, Event-based workflows  
+- ☁️ **Cloud**: AWS-based data infrastructures  
+- 🤖 **AI/Data Stack Integration**: Snowflake + LLMs + Automation  
+
+Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
+
+---
+
+### 💻 Featured GitHub Projects
+
+<!-- BEGIN GITHUB-PROJECT-CARDS -->
+[![Snowflake Streaming Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=snowflake-streaming-pipeline&theme=dark&show_owner=true)](https://github.com/[your-username]/snowflake-streaming-pipeline)
+[![Oracle to Snowflake Migration](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=oracle-to-snowflake&theme=dark&show_owner=true)](https://github.com/[your-username]/oracle-to-snowflake)
+[![Airflow DAGs for ETL](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=airflow-etl-dags&theme=dark&show_owner=true)](https://github.com/[your-username]/airflow-etl-dags)
+[![Databricks Spark Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=databricks-spark-pipelines&theme=dark&show_owner=true)](https://github.com/[your-username]/databricks-spark-pipelines)
+[![SFTP Ingestion Framework](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=sftp-ingestion&theme=dark&show_owner=true)](https://github.com/[your-username]/sftp-ingestion)
+[![Kimball & Data Vault Models](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=data-models&theme=dark&show_owner=true)](https://github.com/[your-username]/data-models)
+<!-- END GITHUB-PROJECT-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Explore%20More-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/[your-username]?tab=repositories)
+
+
+---
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=gruvbox)
+
+---
+
+### 👨🏽‍💻 Philosophy
+
+> _"A great data system is invisible. It doesn’t need attention — it earns trust."_
+
