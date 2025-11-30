@@ -83,7 +83,7 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 [<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*cX2lANxs9gJ_dtWMIgWwOg.png" width="300" />](https://successekhosuehi.medium.com/real-time-data-streaming-into-snowflake-from-s3-with-snowpipe-step-by-step-guide-2a9438ee6555)  
 **Real-Time Data Streaming into Snowflake from S3 with Snowpipe**  
 Seamless S3-to-Snowflake migration transforms raw data into instant insights. Automated pipelines and secure integrations empower teams to make faster, smarter decisions in a fully managed, cloud-native environment.
-[![Post Title 2](https://via.placeholder.com/300x100.png?text=Post+Title+2)](https://medium.com/@yourusername/post-url-2)
+[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6i79HIZ1iybY_XUqGKAU_A.png" width="300" />](https://medium.com/@successekhosuehi/aws-for-beginners-create-an-iam-user-that-can-assume-a-role-b4f49df19c2e)
 [![Post Title 3](https://via.placeholder.com/300x100.png?text=Post+Title+3)](https://medium.com/@yourusername/post-url-3)
 <!-- END MEDIUM-POST-CARDS -->
 
