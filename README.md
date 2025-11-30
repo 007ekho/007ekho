@@ -79,33 +79,33 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 
 ---
 ### 📝 Latest Medium Posts
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
   <!-- Card 1 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 10px; box-sizing: border-box;">
+  <div style="flex: 1 1 200px; max-width: 200px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 8px; box-sizing: border-box; font-size: 14px;">
     <a href="https://successekhosuehi.medium.com/real-time-data-streaming-into-snowflake-from-s3-with-snowpipe-step-by-step-guide-2a9438ee6555">
-      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*cX2lANxs9gJ_dtWMIgWwOg.png" style="width: 100%; height: auto; display: block;" />
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*cX2lANxs9gJ_dtWMIgWwOg.png" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
     </a>
-    <strong>Real-Time Data Streaming into Snowflake from S3 with Snowpipe</strong>
-    <p style="word-break: break-word;">Seamless S3-to-Snowflake migration transforms raw data into instant insights. Automated pipelines and secure integrations empower teams to make faster, smarter decisions in a fully managed, cloud-native environment.</p>
+    <strong style="display: block; margin: 5px 0;">Real-Time Data Streaming into Snowflake from S3 with Snowpipe</strong>
+    <p style="word-break: break-word; margin: 0;">Seamless S3-to-Snowflake migration transforms raw data into instant insights. Automated pipelines and secure integrations empower teams to make faster, smarter decisions.</p>
   </div>
 
   <!-- Card 2 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 10px; box-sizing: border-box;">
+  <div style="flex: 1 1 200px; max-width: 200px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 8px; box-sizing: border-box; font-size: 14px;">
     <a href="https://medium.com/@successekhosuehi/aws-for-beginners-create-an-iam-user-that-can-assume-a-role-b4f49df19c2e">
-      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6i79HIZ1iybY_XUqGKAU_A.png" style="width: 100%; height: auto; display: block;" />
+      <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6i79HIZ1iybY_XUqGKAU_A.png" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
     </a>
-    <strong>Create an IAM User That Can Assume a Role</strong>
-    <p style="word-break: break-word;">Step-by-step guide to creating an IAM user in AWS and allowing it to assume a role, with best practices for security and permissions management.</p>
+    <strong style="display: block; margin: 5px 0;">Create an IAM User That Can Assume a Role</strong>
+    <p style="word-break: break-word; margin: 0;">Step-by-step guide to creating an IAM user in AWS and allowing it to assume a role, with best practices for security and permissions management.</p>
   </div>
 
   <!-- Card 3 -->
-  <div style="flex: 1 1 300px; max-width: 300px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 10px; box-sizing: border-box;">
+  <div style="flex: 1 1 200px; max-width: 200px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 8px; box-sizing: border-box; font-size: 14px;">
     <a href="https://medium.com/@yourusername/post-url-3">
-      <img src="https://via.placeholder.com/300x100.png?text=Post+Title+3" style="width: 100%; height: auto; display: block;" />
+      <img src="https://via.placeholder.com/300x100.png?text=Post+Title+3" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
     </a>
-    <strong>Post Title 3</strong>
-    <p style="word-break: break-word;">Short description of the post goes here. Text will now wrap properly inside the card without overflowing.</p>
+    <strong style="display: block; margin: 5px 0;">Post Title 3</strong>
+    <p style="word-break: break-word; margin: 0;">Short description of the post goes here. Text will now wrap properly inside the card without overflowing.</p>
   </div>
 
 </div>
