@@ -79,10 +79,10 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 
 ---
 ### 📝 Latest Medium Posts
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div style="display: flex; gap: 15px; overflow-x: auto; padding-bottom: 10px;">
 
   <!-- Card 1 -->
-  <div style="flex: 1 1 200px; max-width: 200px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 8px; box-sizing: border-box; font-size: 14px;">
+  <div style="flex: 0 0 200px; border: 1px solid #eee; border-radius: 8px; padding: 8px; box-sizing: border-box; font-size: 14px;">
     <a href="https://successekhosuehi.medium.com/real-time-data-streaming-into-snowflake-from-s3-with-snowpipe-step-by-step-guide-2a9438ee6555">
       <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*cX2lANxs9gJ_dtWMIgWwOg.png" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
     </a>
@@ -91,7 +91,7 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
   </div>
 
   <!-- Card 2 -->
-  <div style="flex: 1 1 200px; max-width: 200px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 8px; box-sizing: border-box; font-size: 14px;">
+  <div style="flex: 0 0 200px; border: 1px solid #eee; border-radius: 8px; padding: 8px; box-sizing: border-box; font-size: 14px;">
     <a href="https://medium.com/@successekhosuehi/aws-for-beginners-create-an-iam-user-that-can-assume-a-role-b4f49df19c2e">
       <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*6i79HIZ1iybY_XUqGKAU_A.png" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
     </a>
@@ -100,7 +100,7 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
   </div>
 
   <!-- Card 3 -->
-  <div style="flex: 1 1 200px; max-width: 200px; border: 1px solid #eee; border-radius: 8px; overflow: hidden; padding: 8px; box-sizing: border-box; font-size: 14px;">
+  <div style="flex: 0 0 200px; border: 1px solid #eee; border-radius: 8px; padding: 8px; box-sizing: border-box; font-size: 14px;">
     <a href="https://medium.com/@yourusername/post-url-3">
       <img src="https://via.placeholder.com/300x100.png?text=Post+Title+3" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
     </a>
@@ -109,6 +109,7 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
   </div>
 
 </div>
+
 
 
 
