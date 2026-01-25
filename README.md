@@ -68,7 +68,7 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 ### 💻 Featured GitHub Projects
 
 <!-- BEGIN GITHUB-PROJECT-CARDS -->
-[![Terraform Snowflake User Provisioning](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=terraform-snowflake-user-provisioning&theme=dark&show_owner=true)](https://github.com/007ekho/terraform-snowflake-user-provisioning)
+[![Terraform Snowflake User Provisioning](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=Terraform-Snowflake-RBAC-Automation&theme=dark&show_owner=true)](https://github.com/007ekho/Terraform-Snowflake-RBAC-Automation)
 [![Snowflake Streaming Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=snowflake-streaming-pipeline&theme=dark&show_owner=true)](https://github.com/[your-username]/snowflake-streaming-pipeline)
 [![Oracle to Snowflake Migration](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=oracle-to-snowflake&theme=dark&show_owner=true)](https://github.com/[your-username]/oracle-to-snowflake)
 [![Airflow DAGs for ETL](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=airflow-etl-dags&theme=dark&show_owner=true)](https://github.com/[your-username]/airflow-etl-dags)
