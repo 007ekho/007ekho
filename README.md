@@ -68,13 +68,14 @@ Each pipeline is designed to be **maintainable, scalable, and cost-efficient**.
 ### 💻 Featured GitHub Projects
 
 <!-- BEGIN GITHUB-PROJECT-CARDS -->
-[![Terraform Snowflake User Provisioning](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=Terraform-Snowflake-RBAC-Automation&theme=dark&show_owner=true)](https://github.com/007ekho/Terraform-Snowflake-RBAC-Automation)
-[![Snowflake Streaming Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=snowflake-streaming-pipeline&theme=dark&show_owner=true)](https://github.com/[your-username]/snowflake-streaming-pipeline)
-[![Oracle to Snowflake Migration](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=oracle-to-snowflake&theme=dark&show_owner=true)](https://github.com/[your-username]/oracle-to-snowflake)
-[![Airflow DAGs for ETL](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=airflow-etl-dags&theme=dark&show_owner=true)](https://github.com/[your-username]/airflow-etl-dags)
-[![Databricks Spark Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=[your-username]&repo=databricks-spark-pipelines&theme=dark&show_owner=true)](https://github.com/[your-username]/databricks-spark-pipelines)
-[![AeroSync SFTP-to-Snowflake Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=sftp-ingestion&theme=dark&show_owner=true)](https://github.com/007ekho/sftp-ingestion)
-[![Kimball & Data Vault Models](https://github-readme-stats.vercel.app/api/pin/?username=007ekho&repo=data-models&theme=dark&show_owner=true)](https://github.com/[your-username]/data-models)
+[Terraform Snowflake User Provisioning](https://github.com/007ekho/Terraform-Snowflake-RBAC-Automation)  
+[Snowflake Streaming Pipeline](https://github.com/007ekho/snowflake-streaming-pipeline)  
+[Oracle to Snowflake Migration](https://github.com/007ekho/oracle-to-snowflake)  
+[Airflow DAGs for ETL](https://github.com/007ekho/airflow-etl-dags)  
+[Databricks Spark Pipelines](https://github.com/007ekho/databricks-spark-pipelines)  
+[AeroSync SFTP-to-Snowflake Pipeline](https://github.com/007ekho/sftp-ingestion)  
+[Kimball & Data Vault Models](https://github.com/007ekho/data-models)
+
 <!-- END GITHUB-PROJECT-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Explore%20More-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/[your-username]?tab=repositories)
