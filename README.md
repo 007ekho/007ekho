@@ -1,6 +1,6 @@
-# ❄️ Success Ekhosuehi
+# ❄️ # Success Ekhosuehi – Data Engineer | Snowflake | AWS | Streaming | Modeling | Orchestration | Migration
 
-**`Data Engineer (Snowflake | Streaming | Modeling | Orchestration | Migration)`**
+
 
 I'm a data engineer focused on building **scalable, automated, cloud-native data platforms**. My work centers around **Snowflake architecture**, real-time and micro-batch **streaming pipelines**, and **workflow orchestration** using Airflow & OpenFlow. I specialize in transforming complex, high volume data especially from legacy systems like Oracle,Db2,teradata into efficient, analytics-ready cloud ecosystems.
 
